@@ -1,0 +1,11 @@
+name: sv_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - bwa
+  - samtools
+  - manta
+  - delly
+  - bcftools
+  - python

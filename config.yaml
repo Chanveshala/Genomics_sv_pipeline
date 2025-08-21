@@ -1,0 +1,4 @@
+samples:
+  - patient1
+
+reference: "data/reference.fasta"
